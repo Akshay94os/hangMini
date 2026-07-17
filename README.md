@@ -1,1 +1,2 @@
 # hangMini
+#python code
